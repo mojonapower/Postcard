@@ -1,0 +1,21 @@
+h1{
+    background-color: aqua;
+}
+h1:hover{
+    padding: 10px;
+    border: 4px solid gold;
+}
+#nose{
+    font-size: 100px;
+}
+
+.link{
+    font-size: 30px;
+    
+}
+p{
+    background-color: brown;
+}
+div > p{
+    background-color:blueviolet ;
+}
